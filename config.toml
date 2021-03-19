@@ -1,0 +1,4 @@
+baseURL = "https://zerotask.github.io"
+languageCode = "en-us"
+title = "Zerotask's Blog - from zero to task"
+theme = "Blogpaper"
