@@ -13,16 +13,15 @@ jobs:
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
+      - name: Check spelling
+        uses: check-spelling/check-spelling@0.0.17-alpha
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
           # extended: true
-
       - name: Build
         run: hugo --minify
-
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
