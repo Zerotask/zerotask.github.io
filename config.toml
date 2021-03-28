@@ -1,4 +1,35 @@
 baseURL = "https://zerotask.github.io"
+DefaultContentLanguage = "en"
 languageCode = "en-us"
-title = "Zerotask's Blog - from zero to task"
-theme = "Blogpaper"
+title = "From Zero to Task"
+theme = "beautifulhugo"
+googleAnalytics = "G-8GW8J277N1"
+disqusShortname = "zerotaskblog"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+subtitle = "IT Consultant and passionate software developer with interests in economics, psychology, cyber security, gaming and SciFi."
+mainSections = ["post","posts"]
+logo = "images/photo.jpg" # Expecting square dimensions
+favicon = "img/favicon.ico"
+dateFormat = "January 2, 2006"
+commit = true
+rss = true
+comments = true
+readingTime = true
+wordCount = true
+useHLJS = true
+socialShare = true
+delayDisqus = true
+showRelatedPosts = true
+
+[Author]
+name = "Patrick Hintermayer"
+email = "hintermayer.patrick@gmail.com"
+github = "Zerotask"
+linkedin = "patrick-hintermayer-a65a0a203"
+
+[[menu.main]]
+name = "Home"
+url = ""
+weight = 1

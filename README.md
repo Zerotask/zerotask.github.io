@@ -1,4 +1,5 @@
-# Zerotask's Blog - from zero to task
+# From Zero to Task
+This is the repository for my personal blog which uses the static site generator Hugo and GitHub Pages.
 
 ## Content creating
 To create a new post, run `hugo new posts/<filename.md>`.
