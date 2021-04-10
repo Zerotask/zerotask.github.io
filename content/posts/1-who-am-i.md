@@ -1,7 +1,7 @@
 ---
 title: Who am I?
 subtitle: # Optional, will be displayed bellow the title of the page; remove this line to generate an automatic subtitle
-date: 2021-03-27
+date: 2021-03-28
 categories: # Optional, will be displayed above the title of the page
 - General
 tags: # Optional, will be displayed at the bottom end of the post
@@ -12,7 +12,8 @@ draft: false
 
 My name is Patrick Hintermayer and in the context of computer science I call myself Zerotask, that's why the blog is called "From Zero to Task".
 This name has no special meaning though. This name is based on [zero day exploits](https://www.fireeye.com/current-threats/what-is-a-zero-day-exploit.html)
-which describe software or hardware vulnerabilities before the vendor is aware of.
+which describe software or hardware vulnerabilities before the vendor is aware of. This means there is a timespan where hackers can abuse this vulnerability.
+
 I am 29 years old and from Baden-Württemberg, Germany. In the past I worked as a software developer and since 2021 I follow the path of an IT Consultant.
 My favorite series are The King of Queens, The Big Bang Theory and Star Trek and I really like to play World of Warcraft (WoW).
 
@@ -24,3 +25,9 @@ Now, 14 years later I can look back to many years of programming and I don't reg
 Coding is so much fun. You are able to create something special out of an idea, help yourself or others or just hang out and discuss with people which has similar interests like you.
 
 My focus is still on web development, but I switched from PHP, which was my first language, to C# and JavaScript / TypeScript. Currently I'm also looking into Go and Rust.
+I am very curious about new technologies and I like to read tech blogs or news article. There are so many interesting topics like machine learning (ML) / artificial intelligence (AI),
+internet of things (IoT), Microservices, Kubernetes or distributed systems in general.
+
+My blog will summarize some of my interests, researches and explorations through the jungle of modern software development. Therefore I don't want to make bloated and extensive articles which would take
+a long time to read. Instead of that I will set a maximum word limit of 999.
+I try to be objective in general, but since I'm just a human being each article will also include of my personal opinion.
