@@ -1,6 +1,3 @@
-[submodule "themes/Blogpaper"]
-	path = themes/Blogpaper
-	url = https://github.com/NormandErwan/Blogpaper.git
 [submodule "themes/beautifulhugo"]
 	path = themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo

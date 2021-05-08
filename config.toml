@@ -7,7 +7,7 @@ googleAnalytics = "G-8GW8J277N1"
 disqusShortname = "zerotaskblog"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+#  homeTitle = "" # Set a different text for the header on the home page
 subtitle = "IT Consultant and passionate software developer with interests in economics, psychology, cyber security, gaming and SciFi."
 mainSections = ["post","posts"]
 logo = "images/photo.jpg" # Expecting square dimensions
